@@ -1,0 +1,3726 @@
+{
+  "success": true,
+  "result": {
+    "players": [
+      {
+        "stage": "0x000032",
+        "uuid": "e252114a-b2b2-4ffa-8a8a-21a004583fa0",
+        "in_game_name": "ChickenAttack",
+        "time": "2020-06-29 09:20:32",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0e13b173-563a-4d2f-8d58-233b0858ab28",
+        "in_game_name": "KIEA_lan",
+        "time": "2020-06-12 13:43:09",
+        "reason": "偷竊、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "65b3e649-e5fa-4c25-a844-d8f98acb3783",
+        "in_game_name": "Lysionx",
+        "time": "2020-06-08 14:34:17",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "76a478a7-d92b-4292-9ae0-d19d1b27aff0",
+        "in_game_name": "DraftMercury821",
+        "time": "2020-05-31 18:20:10",
+        "reason": "透視外掛、主世界挖礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "aadde656-9976-4bd5-b666-3a2892a4ea16",
+        "in_game_name": "Call_MeZoe",
+        "time": "2020-05-31 18:07:04",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "fbbf4fd9-cdd9-48a3-96b7-d69eb4e30e7f",
+        "in_game_name": "henrypai",
+        "time": "2020-04-18 02:25:56",
+        "reason": "偷竊、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "cc1b1248-afb1-4bb8-95dd-a0816513bf26",
+        "in_game_name": "jeffweng2003",
+        "time": "2020-04-18 02:23:49",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "17a638ae-c385-40c6-9c8c-2a418fb02870",
+        "in_game_name": "FirckYouOn9",
+        "time": "2020-04-18 02:22:34",
+        "reason": "偷竊、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "555ef957-23be-4615-81d0-0e9ddcc771fd",
+        "in_game_name": "Prometheus1029",
+        "time": "2020-04-18 02:21:44",
+        "reason": "偷竊、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "1c9138ac-79ad-41d6-9274-8f536276c014",
+        "in_game_name": "JoeChan0523",
+        "time": "2020-04-10 23:48:42",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3b0546f0-e0d6-4969-a61a-0439c33f02b0",
+        "in_game_name": "mark0407",
+        "time": "2020-04-10 23:47:58",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2e46c486-6c9f-4972-a567-801401928b4d",
+        "in_game_name": "Wax_rain",
+        "time": "2020-04-10 23:46:54",
+        "reason": "破壞重生點、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3a0d0e94-ecc3-4184-8b3b-e5e38d76e5a1",
+        "in_game_name": "letscode08",
+        "time": "2020-04-10 23:45:29",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "efcea060-ab14-4826-9f02-3da2045eb790",
+        "in_game_name": "RS1224_rr",
+        "time": "2020-03-23 21:22:47",
+        "reason": "破壞私人建築、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b3ca7c18-ea61-427c-88ad-5c75e37f3c3d",
+        "in_game_name": "KINGFLASH998",
+        "time": "2020-03-23 21:22:11",
+        "reason": "破壞重生點、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "05553884-01f8-43de-ba5f-b787c871fb44",
+        "in_game_name": "LoqhMou6",
+        "time": "2020-03-13 21:36:26",
+        "reason": "透視外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "1e8a4de3-dce6-4395-9db6-af3d5cd9ddb9",
+        "in_game_name": "STRIKE0057",
+        "time": "2020-02-20 18:24:20",
+        "reason": "惡意放置水流、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "7e59eb7e-14eb-4241-9d11-cfc23fc2bcd6",
+        "in_game_name": "DannyTV",
+        "time": "2020-02-20 18:24:03",
+        "reason": "惡意放置水流、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "28b6f290-0ad7-4698-9498-12740807e79e",
+        "in_game_name": "MALOH_mc",
+        "time": "2020-02-17 22:46:12",
+        "reason": "透視外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6bb2db41-68be-4022-8d56-45e19e8e8aab",
+        "in_game_name": "Jack2048",
+        "time": "2020-02-14 14:44:28",
+        "reason": "烏路破壞與偷竊逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e5912011-9e4c-44bf-a09a-6f5a3db448b0",
+        "in_game_name": "_oil_Fish",
+        "time": "2020-02-05 03:10:31",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6dc0624b-ea71-4fca-b1a5-668627da32f7",
+        "in_game_name": "945767",
+        "time": "2020-02-03 19:45:59",
+        "reason": "透視外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "dbd0237e-90d3-427c-b965-6a8a64be8027",
+        "in_game_name": "ray0308",
+        "time": "2020-01-22 11:32:52",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3ac27263-9d41-4aa3-b079-bb06b8950341",
+        "in_game_name": "kiwi20170330",
+        "time": "2020-01-15 18:54:21",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0a69243e-761b-489d-a33a-ddeab41c1d45",
+        "in_game_name": "vA1z",
+        "time": "2020-01-15 18:54:10",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "39c71d6e-9faf-4da3-b799-ef8291a845a0",
+        "in_game_name": "Tsukiyo__",
+        "time": "2020-01-15 18:51:11",
+        "reason": "活動場地破壞逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b1868cd9-d3f7-4678-8d1d-1768b16cede0",
+        "in_game_name": "multicookies4me",
+        "time": "2020-01-08 12:27:54",
+        "reason": "烏路破壞逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "1337328e-d4c2-457f-9242-974a570bfc05",
+        "in_game_name": "leehengheng",
+        "time": "2020-01-08 12:27:31",
+        "reason": "御統重生點破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b3566e4b-4471-4c4a-82e3-4aed91c59ab2",
+        "in_game_name": "_SADOS_",
+        "time": "2020-01-04 02:25:44",
+        "reason": "烏路破壞與偷竊逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "48f0ad08-4520-4fa4-8f40-437d65b1dafa",
+        "in_game_name": "Stardust1230",
+        "time": "2019-12-31 10:35:04",
+        "reason": "烏路破壞與偷竊逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2354f5ff-b0d6-4f9d-8485-2c8f5f4c3411",
+        "in_game_name": "Sunya_mini",
+        "time": "2019-12-23 04:22:20",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "52cf1901-30e4-47a9-bd32-dddeb1aa2b20",
+        "in_game_name": "DeviantRA9",
+        "time": "2019-12-21 02:38:36",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0d0ac8ce-735b-4e9a-8337-afcc008a90f5",
+        "in_game_name": "DJSpaceHD",
+        "time": "2019-12-21 02:38:01",
+        "reason": "收成他人作物未種回、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b8ea735a-1704-46e7-b1a0-c5554c39522d",
+        "in_game_name": "yagami970",
+        "time": "2019-10-07 00:51:35",
+        "reason": "監禁釋放後即進行同種類、同區域破壞，明顯無悔意，判定無教化可能"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c88efcf1-9e8e-4bd6-8012-064a3e5f0748",
+        "in_game_name": "HZ_Spider_TW",
+        "time": "2019-09-15 23:54:43",
+        "reason": "大量破壞與偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "aa40130c-ae9a-4b8c-a5fb-acaf3c50bd95",
+        "in_game_name": "WinnerWang",
+        "time": "2019-09-07 21:40:55",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0de995f0-1e39-4e86-ae90-ed29ae174d04",
+        "in_game_name": "DerekWong317",
+        "time": "2019-08-28 21:32:52",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "dadcf3ba-fa11-4431-ad00-16c3804667ae",
+        "in_game_name": "KBillyH0F",
+        "time": "2019-07-28 20:55:49",
+        "reason": "透視挖礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "89db0ab3-3978-4d23-a41e-601afce90072",
+        "in_game_name": "Miss_Prince",
+        "time": "2019-07-24 07:46:08",
+        "reason": "外掛：自動釣魚"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3b45c514-e68a-4dd1-aaab-dd0d4b7e3a5a",
+        "in_game_name": "DarK_DevilCat",
+        "time": "2019-07-24 07:28:14",
+        "reason": "偷竊，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "59603637-0b64-4731-9dec-4ef0b9de386a",
+        "in_game_name": "TopHv233",
+        "time": "2019-07-22 23:38:36",
+        "reason": "惡意殺害"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "7f699ff3-2460-4ae2-9a44-eaf7114567c1",
+        "in_game_name": "Nastyboytw",
+        "time": "2019-07-22 20:33:15",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ee6f88ff-bc8c-493a-b1c6-f8d09184add7",
+        "in_game_name": "Hi_Richard",
+        "time": "2019-07-20 13:27:28",
+        "reason": "大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "938f2a30-18b5-4333-9b03-0f5197d45fbb",
+        "in_game_name": "SKY_Xaiolu",
+        "time": "2019-07-18 19:16:20",
+        "reason": "透視挖礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f4867086-98c3-4ebb-899d-28dc69fd79b7",
+        "in_game_name": "Earst84",
+        "time": "2019-07-18 13:16:48",
+        "reason": "大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "947c572b-ea6f-4534-9edd-dced1d41f0e7",
+        "in_game_name": "ChienFine",
+        "time": "2019-07-18 01:44:04",
+        "reason": "偷竊，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d9464e3d-88f9-4722-a0e2-2c7ae4dac6ea",
+        "in_game_name": "Yanyu_Shangchi",
+        "time": "2019-07-13 21:30:56",
+        "reason": "使用模組惡意偷取世界地圖"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "33c8143e-6635-428c-8859-43850bebc9d4",
+        "in_game_name": "SO5_CarLo03",
+        "time": "2019-07-11 20:22:32",
+        "reason": "偷竊，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e37ff558-62ed-47f8-998d-93e487e1a6f1",
+        "in_game_name": "CG_mitw",
+        "time": "2019-07-11 16:40:51",
+        "reason": "透視挖礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c9c33a3f-9774-438f-8c72-e8ac6e022273",
+        "in_game_name": "Mongoose_UwU",
+        "time": "2019-07-09 13:47:11",
+        "reason": "大型破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e119fd42-543f-4499-84dc-299dac14f339",
+        "in_game_name": "brylagasse114",
+        "time": "2019-07-09 12:08:12",
+        "reason": "偷竊，詢問時下線"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "70ad4ce8-bc2b-471f-bf44-f3bc01fb95e7",
+        "in_game_name": "Yushen20516",
+        "time": "2019-07-08 22:46:25",
+        "reason": "破壞，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "83b8e286-8621-4896-8462-9a8cc5d65301",
+        "in_game_name": "geeftyu",
+        "time": "2019-07-08 22:46:06",
+        "reason": "破壞，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8e43a07c-7581-4f7d-9a6d-2735b41c1645",
+        "in_game_name": "hbalnack13",
+        "time": "2019-07-07 14:01:23",
+        "reason": "大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "359b031c-db8a-45c8-ba21-e2eb9905be03",
+        "in_game_name": "showboy",
+        "time": "2019-07-06 23:34:04",
+        "reason": "破壞，毫無悔意"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e1fa636a-4e37-4134-8eb5-2e761f88a747",
+        "in_game_name": "xiao_bookobx",
+        "time": "2019-07-06 19:52:32",
+        "reason": "主世界開礦、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "845fae3c-5d61-4424-921e-a14e98d2c5cd",
+        "in_game_name": "Xin_",
+        "time": "2019-07-05 21:17:24",
+        "reason": "自動打怪"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "36c1a476-74bb-449b-81fc-f5e26ac61b20",
+        "in_game_name": "Iamsogenius",
+        "time": "2019-07-04 18:39:10",
+        "reason": "透視挖礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "dfae8e58-3492-4136-be28-9fd849938eab",
+        "in_game_name": "GUADAI_OuO9",
+        "time": "2019-07-04 16:46:14",
+        "reason": "偷竊，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b23ded16-e573-4cfe-8703-b51a9766e365",
+        "in_game_name": "OceanDeamer",
+        "time": "2019-07-04 16:44:55",
+        "reason": "偷竊，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8f5e430e-8f88-43ac-b695-a6011fbd5aff",
+        "in_game_name": "willy_lan",
+        "time": "2019-07-04 16:44:46",
+        "reason": "偷竊，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "1bb2f126-2d48-4695-8023-08250ca8a319",
+        "in_game_name": "Blackwhite2566",
+        "time": "2019-07-04 16:44:36",
+        "reason": "偷竊，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "13214279-ea41-40db-bc66-e398928a6920",
+        "in_game_name": "IGotAPaper",
+        "time": "2019-07-03 21:42:10",
+        "reason": "偷竊，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "553373c8-8b6a-4a38-ac6f-5e2293eae884",
+        "in_game_name": "PandaRandy",
+        "time": "2019-07-03 21:41:57",
+        "reason": "偷竊，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "4e9abc35-df0e-4771-8b65-a6eab33bc4a2",
+        "in_game_name": "KA2005",
+        "time": "2019-07-03 21:41:44",
+        "reason": "偷竊，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6510fa78-fe2c-48be-ac91-34960b0f85b3",
+        "in_game_name": "_ShiWu_",
+        "time": "2019-07-02 21:27:28",
+        "reason": "透視挖礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ba231465-f1ab-4c2f-883b-6225a7566fde",
+        "in_game_name": "Jakenwas",
+        "time": "2019-07-01 03:55:55",
+        "reason": "大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "bea72922-a610-4580-8e11-542aa28d0c1c",
+        "in_game_name": "karta1387142",
+        "time": "2019-06-30 19:20:00",
+        "reason": "主世界開礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "909f6722-4640-439c-a7ee-3f56c655af6c",
+        "in_game_name": "TheMONA118",
+        "time": "2019-06-23 23:33:11",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3fe71ccf-655b-4458-a0e4-ba7d611cca3c",
+        "in_game_name": "Ky1e_Yang",
+        "time": "2019-06-22 21:46:04",
+        "reason": "偷竊，詢問時下線"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "62e09189-1428-48f6-9483-8520e5276565",
+        "in_game_name": "VacantRS",
+        "time": "2019-06-19 16:11:47",
+        "reason": "偷竊，逾時無回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "085a828b-73d3-4639-979a-914835e5eb82",
+        "in_game_name": "EpicTale__Sans",
+        "time": "2019-06-15 00:11:53",
+        "reason": "加速外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ed6a7dbc-155a-4405-9f4b-d88e95bfc16e",
+        "in_game_name": "hollylin0318",
+        "time": "2019-06-09 20:19:34",
+        "reason": "加速外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "4d14f5e3-8234-4a16-9706-d4eacc2a1040",
+        "in_game_name": "DurianFool",
+        "time": "2019-06-04 14:27:33",
+        "reason": "偷竊、犯後無悔意、無法進行人類溝通"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b2399f08-e72a-4e8d-8588-027bb247ec44",
+        "in_game_name": "Kinguin_PvP",
+        "time": "2019-05-27 17:12:11",
+        "reason": "挖礦加速外掛、現行犯"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2c0de686-a912-4bd4-9db5-2af82a2e4cfd",
+        "in_game_name": "Maple_leaf_tea",
+        "time": "2019-05-26 19:26:49",
+        "reason": "飛行外掛現行犯"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d1d5f7c9-f684-4a21-b80d-c6d097d42666",
+        "in_game_name": "sukor410325",
+        "time": "2019-05-25 13:48:22",
+        "reason": "破壞重生點、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6786deac-3384-48f5-bff8-f937daef0efe",
+        "in_game_name": "Mr_weihung_TW",
+        "time": "2019-05-25 13:45:03",
+        "reason": "烏路國大量偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "60923bc5-64e8-47da-94a1-33f0851bb403",
+        "in_game_name": "CoolNoodleGA",
+        "time": "2019-05-23 21:11:13",
+        "reason": "主世界開礦、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b3d27cf3-5a57-4fd2-a01d-de6cede83a28",
+        "in_game_name": "Albertchen",
+        "time": "2019-05-20 21:10:56",
+        "reason": "無故殺害玩家，已有多次警告"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "eff54793-372f-4997-86ea-316c1e857794",
+        "in_game_name": "blacktea1118",
+        "time": "2019-05-20 18:38:08",
+        "reason": "透視外掛現行犯，無悔意逃逸下線"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "af3e9a65-a86d-471d-a0f6-b05c34ae197b",
+        "in_game_name": "Matthew299",
+        "time": "2019-05-19 10:48:28",
+        "reason": "主世界開礦、態度不佳"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8d65bb07-05f9-4e6a-b6bc-4ae74427a282",
+        "in_game_name": "fightergod",
+        "time": "2019-05-16 21:07:45",
+        "reason": "偷竊、欺騙刑部"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3353caa3-40e5-472c-aa17-d2cfbd58b1af",
+        "in_game_name": "Wills12345",
+        "time": "2019-05-05 08:49:30",
+        "reason": "私闖民宅、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "15f0f8b5-1300-4e86-a624-eb3ce69958dc",
+        "in_game_name": "Xie0u0Yu",
+        "time": "2019-04-28 11:47:17",
+        "reason": "偷竊，詢問時下線，五分鐘未回"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6902ae85-c39d-475c-8ce6-ef2df14f1f68",
+        "in_game_name": "wintergreen5327",
+        "time": "2019-04-25 21:28:17",
+        "reason": "透視挖礦、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "dc227edf-4ffa-435c-a941-756d281024e2",
+        "in_game_name": "KerwinL",
+        "time": "2019-04-08 15:55:00",
+        "reason": "毫無悔意、無法進行人類溝通"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ab79f52f-4576-4a85-ab7c-c023d21714be",
+        "in_game_name": "yang_red",
+        "time": "2019-03-31 22:11:40",
+        "reason": "多種外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "59a62143-88b6-4964-a731-19033db1fca7",
+        "in_game_name": "Like_Tea_black",
+        "time": "2019-03-20 21:54:27",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b66953e9-2305-4712-8fea-304bd2a517c3",
+        "in_game_name": "123Elio",
+        "time": "2019-03-19 20:38:07",
+        "reason": "多起偷竊，上線後未解釋便下線逃逸，超過時限"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "1363e5a8-daff-4712-b9b1-56d4f9b0b6d4",
+        "in_game_name": "bear970205",
+        "time": "2019-03-10 21:20:25",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b0853e5a-4eeb-4b8c-93bf-7410c05e9e7d",
+        "in_game_name": "ShunLeung",
+        "time": "2019-03-10 17:08:22",
+        "reason": "態度惡劣、謾罵、言行不檢點、毫無悔意"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "76ac5ea3-8f24-41ee-8537-bd244da2b76d",
+        "in_game_name": "Greenlind",
+        "time": "2019-03-04 14:59:34",
+        "reason": "進入非開放區域，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b4d292a1-8a72-49db-8cc4-a79b0758e99b",
+        "in_game_name": "Jerometube",
+        "time": "2019-03-03 10:12:41",
+        "reason": "殺人"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "33737972-87bf-4bd5-a259-20ddd85b1fce",
+        "in_game_name": "coffee0525",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞、累犯"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "295b1a75-44e0-42dd-8496-2264376dec88",
+        "in_game_name": "TKY_TW",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3eaf4357-8032-4667-abbd-8390bc35e9c9",
+        "in_game_name": "iced_tea_",
+        "time": "2019-03-03 10:12:41",
+        "reason": "外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "95868f74-d2a7-4e13-b58c-67f5e5210325",
+        "in_game_name": "2Zi_Sheep",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞、飛天外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "199a120b-b5ec-4a8e-94d0-93543f620f30",
+        "in_game_name": "qetuo1314",
+        "time": "2019-03-03 10:12:41",
+        "reason": "外掛、主世界開礦、洗頻"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "eae7e63e-327a-43c6-ae99-9e09ed10bfa5",
+        "in_game_name": "Kai_Kai_Fly",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "814fe630-60f6-4a3c-a800-c52ae168da59",
+        "in_game_name": "DeicideGod",
+        "time": "2019-03-03 10:12:41",
+        "reason": "飛天外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "858411a9-95ce-46f3-842e-76e15b835375",
+        "in_game_name": "Kukika_",
+        "time": "2019-03-03 10:12:41",
+        "reason": "主世界開礦、破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "65fcce12-73f4-47a1-8e7a-86a281d1b6b8",
+        "in_game_name": "alan_wolf_kkop",
+        "time": "2019-03-03 10:12:41",
+        "reason": "大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b29d429c-3d4f-4b97-9761-734b7a601029",
+        "in_game_name": "Doctorscontro",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b1c9a1c7-7e7c-4071-9322-679ed75da88a",
+        "in_game_name": "H29520259",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞、偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8335b37a-864a-4646-b1e0-747e6e5558a3",
+        "in_game_name": "asd66448822",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "30615b20-ba90-4978-b8bb-d472714638d6",
+        "in_game_name": "arran119",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞、偷竊、殺害動物"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8f4ad930-25d2-40e2-b137-fc34632145ac",
+        "in_game_name": "raywong1022",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊、破壞、亂流"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0e35de6d-7e65-460c-a6e1-3d6831a5ee01",
+        "in_game_name": "RazorScythe99",
+        "time": "2019-03-03 10:12:41",
+        "reason": "紅石"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e2fd25df-fdea-4f42-8c62-9bfc1d3be7f3",
+        "in_game_name": "BlockButer",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6b089372-6d0a-4d4d-ab65-3340cfdb2445",
+        "in_game_name": "aga0205",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "4c2f15d6-c04b-49c6-950b-20dd7dac9db6",
+        "in_game_name": "abc9380650",
+        "time": "2019-03-03 10:12:41",
+        "reason": "大量破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "56ddc92a-0b89-409b-a92e-3f757419f1f9",
+        "in_game_name": "MaxHsu",
+        "time": "2019-03-03 10:12:41",
+        "reason": "大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ad7cc58b-b1a0-4527-ac36-ddfcd54bc709",
+        "in_game_name": "garbage0216",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "da8e879e-f57a-4b2b-a5a0-0539203bb09d",
+        "in_game_name": "Blackjason39",
+        "time": "2019-03-03 10:12:41",
+        "reason": "大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3eb5c3c9-07b4-405d-8763-de428876b4f4",
+        "in_game_name": "Thunder_yea",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3ed4f9e8-2129-48b8-be4c-e5f003fd014f",
+        "in_game_name": "samhong",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b8a42dae-1d2d-4b75-affa-e57839216c13",
+        "in_game_name": "ruru80154",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e250908d-b707-4ac8-9e45-1a82bdb83365",
+        "in_game_name": "sam07004",
+        "time": "2019-03-03 10:12:41",
+        "reason": "殺人、謾罵"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "1a5e62fd-cad4-4125-997e-e9ff479a85eb",
+        "in_game_name": "Astar_TB",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞、偷竊、殺人、謾罵、洗頻"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6e239b80-e0c6-4b20-bbf8-622cf20349cf",
+        "in_game_name": "beefnoodlehk",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞、言行不檢點"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2ddaa93c-1183-455c-8ba1-6a8a7b2cd783",
+        "in_game_name": "jayden_ng",
+        "time": "2019-03-03 10:12:41",
+        "reason": "攻擊、偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5c6712a9-afb2-4c18-95f9-662afc4d2d2d",
+        "in_game_name": "Darkmoon3310",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "cc64ac30-31a4-4740-98e6-3e652641524c",
+        "in_game_name": "max0531",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "38e3007a-8f62-437b-a4ed-710355a8c8b6",
+        "in_game_name": "henry302631",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9dcd449d-e1ec-4877-838d-dcf8d912179a",
+        "in_game_name": "IronBaka",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a92da504-3720-4457-98ea-603c8e94658a",
+        "in_game_name": "terrorist1",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5fb59f12-1bbb-47d6-9107-98374726b91f",
+        "in_game_name": "yuanliqi123",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞、偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d24b36fb-65b6-4386-b0db-191c5feb9b66",
+        "in_game_name": "TW_SACK",
+        "time": "2019-03-03 10:12:41",
+        "reason": "飛天、加速外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "24bca8f8-2c52-4672-9e2c-a6d9024b1427",
+        "in_game_name": "Justin0511",
+        "time": "2019-03-03 10:12:41",
+        "reason": "嚴重偷竊、殺人"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "51c45c08-9d75-42e7-b875-87c24c025164",
+        "in_game_name": "Anro_Kusamatsuri",
+        "time": "2019-03-03 10:12:41",
+        "reason": "大量破壞、偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "34db1fd0-367b-4a23-9c0f-8caab2cff376",
+        "in_game_name": "ggboy0308",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d215d9f2-e00d-4361-86b6-65de867bd30f",
+        "in_game_name": "jyam123",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f93c1b41-dbb1-4de8-9f03-a649aadfb744",
+        "in_game_name": "LastRice",
+        "time": "2019-03-03 10:12:41",
+        "reason": "外掛、破壞、態度惡劣"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ad1da4ee-0ca5-4138-9955-277e6ff7ccda",
+        "in_game_name": "Anonymous_p10950",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f8e22ac7-90e4-40c6-ab48-be5eb77e63ae",
+        "in_game_name": "NENEGOOD",
+        "time": "2019-03-03 10:12:41",
+        "reason": "主世界開礦，被關之後無悔意"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e31cc63c-29b9-407b-be28-d9037787f489",
+        "in_game_name": "BM806",
+        "time": "2019-03-03 10:12:41",
+        "reason": "外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "82b1b7a3-bd45-400a-baae-80fb2fca747f",
+        "in_game_name": "wayp",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊、破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0546e664-564b-424a-bb3c-2696fea6af15",
+        "in_game_name": "thomas97855",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "fc51a96b-1375-4f94-90dd-cde5a7201270",
+        "in_game_name": "lensers",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ae5fb9f0-8dc7-45ed-b842-11ae490cb1bd",
+        "in_game_name": "ball1234",
+        "time": "2019-03-03 10:12:41",
+        "reason": "烏路破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "49d4b039-701e-4f62-98ae-41619d708f89",
+        "in_game_name": "Artem_0213",
+        "time": "2019-03-03 10:12:41",
+        "reason": "主世界開礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f63f89d3-f9e8-46eb-b6c0-3c850527c630",
+        "in_game_name": "P484",
+        "time": "2019-03-03 10:12:41",
+        "reason": "主世界開礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "181b7509-3cd2-4955-842f-29f21ef15357",
+        "in_game_name": "luis01218",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3b95663a-839a-445b-85b1-80b7b4b511a9",
+        "in_game_name": "Jimfatjun",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "49ce4aea-b51e-4b95-9c9a-4f76fa4dcc56",
+        "in_game_name": "peach0215",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊頭顱"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e3198aa3-a713-4de3-a199-4718eac3f5f1",
+        "in_game_name": "willy12144",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "da46ce05-4df2-4ec4-ac80-b2e130f825d6",
+        "in_game_name": "Akagiyoukai_",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞、使用外掛下載地圖"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "796b0ca4-31d1-482a-8d18-9a856a80f0c6",
+        "in_game_name": "mark0306",
+        "time": "2019-03-03 10:12:41",
+        "reason": "多處破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9cf04bde-bce1-4cf7-b195-a971b42417fc",
+        "in_game_name": "woopa36421",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c1f0ce5a-ff57-41e4-8d6a-fc2f9fc9fc6f",
+        "in_game_name": "XoOwayneOoX",
+        "time": "2019-03-03 10:12:41",
+        "reason": "主世界開礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e68e2f67-e8f0-478f-a96e-4585beac1ae2",
+        "in_game_name": "ljcucc",
+        "time": "2019-03-03 10:12:41",
+        "reason": "侵害玩家財產"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e357fab4-87b6-43da-89cd-a4996c16f41e",
+        "in_game_name": "joe_fan",
+        "time": "2019-03-03 10:12:41",
+        "reason": "逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "49f4da3a-969d-479e-8173-c7eb3a6dceb4",
+        "in_game_name": "OILOVEGGO",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "84e15502-03ae-4949-96b0-2776db83d3f3",
+        "in_game_name": "tuhsinyu",
+        "time": "2019-03-03 10:12:41",
+        "reason": "破壞、濫殺他人寵物"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "48f3e505-669c-471f-91d6-100eac241183",
+        "in_game_name": "MOG_tw",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "00de42c7-16ce-4ee6-ae93-cd89d276e78e",
+        "in_game_name": "TaipeiCyril",
+        "time": "2019-03-03 10:12:41",
+        "reason": "偷竊、非法闖入、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8dc674fc-a1a0-4a6f-b7f6-f9cd01f23b03",
+        "in_game_name": "BlackString",
+        "time": "2019-03-03 10:12:40",
+        "reason": "大量破壞、侵入玩家建築"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9a336d6a-3d25-4f9b-8329-ffe06e8bd80e",
+        "in_game_name": "Flowersempez",
+        "time": "2019-03-03 10:12:40",
+        "reason": "主世界重生島採集資源，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e8ccb44f-c059-4abe-b0fe-a12ac2e27b35",
+        "in_game_name": "ZerteionOscar",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "bed2e9dd-bcea-4aed-82c2-aadea96aa618",
+        "in_game_name": "ericson10503",
+        "time": "2019-03-03 10:12:40",
+        "reason": "侵害財產、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8f08b85e-fe45-4252-8102-f1561142f826",
+        "in_game_name": "kiharman",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "54763eb2-5e98-4841-9ae8-82a21728fd9d",
+        "in_game_name": "pinkie0515",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8402a6ab-863f-4fd7-a6b4-7f3d69858432",
+        "in_game_name": "brianandowen",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c3e737fa-dc37-4045-842e-5f4c371a791d",
+        "in_game_name": "RENEEGUI",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c707d0ad-0ed1-44f5-b006-abfa788dd3a8",
+        "in_game_name": "Bad_spicy",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、態度惡劣"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3964c883-a203-4a51-b726-a2db7cb6680d",
+        "in_game_name": "BaSEE911120",
+        "time": "2019-03-03 10:12:40",
+        "reason": "重生點島建築"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "36c327f0-5554-4afb-b83e-29cadd6d9a4b",
+        "in_game_name": "yan0219",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0c95a5d3-8f36-4986-bd3c-ffe452a0602a",
+        "in_game_name": "a2324343",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a5776d30-3cf1-42c0-9e56-0293693df43e",
+        "in_game_name": "o0abby0o",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "1ecf53d3-d7ba-4f8a-a63f-6dfd046438fe",
+        "in_game_name": "sunfrancis12",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾期未說明"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "65d4be58-4c6d-4be9-8de9-074eea5f6433",
+        "in_game_name": "BK826955",
+        "time": "2019-03-03 10:12:40",
+        "reason": "主世界開礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "cafdad71-e6da-482e-bc70-fbe60cecdbca",
+        "in_game_name": "AwwGarsonYu",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "7f29e83c-64a1-4065-9c95-e02105753b2d",
+        "in_game_name": "SoNaTa_HaKuI",
+        "time": "2019-03-03 10:12:40",
+        "reason": "大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5679eb7d-470a-41a6-89b1-13a267c6caf3",
+        "in_game_name": "smash0201",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b0331436-96e8-4bc9-a827-10533ec6c430",
+        "in_game_name": "ATD18",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "bb256545-2fa1-4212-a8a0-60648bc8ad83",
+        "in_game_name": "MayBe_Black",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、搗亂"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "63b9905e-2b28-4cc9-b79d-d66760ff432b",
+        "in_game_name": "Angle_And_Demon",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞監獄"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0bf0d657-3655-4572-92bb-8366de8150b3",
+        "in_game_name": "Killer_001",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "1f52759b-3929-4533-88fe-8e1384b13c1d",
+        "in_game_name": "ericwong0711",
+        "time": "2019-03-03 10:12:40",
+        "reason": "飛天外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d353a985-1882-4493-b6b5-1d55dacc9332",
+        "in_game_name": "franksuperman",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、殺人"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "42d8c469-fbe3-4e65-ba5f-2073ccaa11bd",
+        "in_game_name": "frizz625",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "02455de9-2923-4541-a9d4-427fbe054c8c",
+        "in_game_name": "winniebb",
+        "time": "2019-03-03 10:12:40",
+        "reason": "隨處殺人，毫無悔意"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ca8b8d6a-25ce-4f72-8e28-53ffe0bc89ca",
+        "in_game_name": "Betechan",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "39f356d0-55b8-446b-b715-5c738e08fe8e",
+        "in_game_name": "Bad_Beautiful",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、態度惡劣"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "4a9096b1-99e8-485e-9d27-8f1980f9d552",
+        "in_game_name": "Anson_chan1206",
+        "time": "2019-03-03 10:12:40",
+        "reason": "攻擊玩家、外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5e3b8366-3201-49d2-8806-80ba8561c112",
+        "in_game_name": "Shiauapple",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "96f952e6-ef77-42f7-bf43-488c52ea67b8",
+        "in_game_name": "yutiteng",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "13175abb-a32f-4161-9818-2430b9bd561c",
+        "in_game_name": "ALAX_2028043",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "4850c44f-fc8f-440a-a21f-a67f221ca482",
+        "in_game_name": "yang91889",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、侵害財產"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d2f187da-e2fc-4ce6-9e72-4214c8e2ebc1",
+        "in_game_name": "Last_Pig",
+        "time": "2019-03-03 10:12:40",
+        "reason": "外掛、破壞、態度惡劣"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f0a2e2d4-2f78-48d4-bdbb-a63bd8088525",
+        "in_game_name": "Jennie030",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、偷竊、殺人、謾罵、洗頻"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e0c91ce4-d72f-4701-8dad-d895c5e3d71f",
+        "in_game_name": "Shinjitsunogaran",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f53fadb6-b4ff-4399-80db-589f41d2bacf",
+        "in_game_name": "Cold_Enderman",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2720fb66-60e1-402a-bd48-6014972ff81b",
+        "in_game_name": "kelvin0o0",
+        "time": "2019-03-03 10:12:40",
+        "reason": "飛天外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e418229a-236e-4a39-b897-d1f5f9bf8f5a",
+        "in_game_name": "cst0330257",
+        "time": "2019-03-03 10:12:40",
+        "reason": "主世界開礦、生怪塔"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6647030d-3b84-450f-8791-b57bc2180606",
+        "in_game_name": "brian66brian",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "adbf33ab-1f28-429e-9f08-e9b344e78631",
+        "in_game_name": "_Natsumi_",
+        "time": "2019-03-03 10:12:40",
+        "reason": "飛天外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "aebab61e-b650-4256-a6d9-e7c6fd1646c6",
+        "in_game_name": "RS008",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c04eafe7-2b80-4500-a48b-f042309c527e",
+        "in_game_name": "shinkuan1",
+        "time": "2019-03-03 10:12:40",
+        "reason": "外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6fff5d3f-265f-4c30-9103-f928002532e4",
+        "in_game_name": "kai0409CX",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ab3b3089-76d3-4b3a-a570-cd766387f6f1",
+        "in_game_name": "Andy930312",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3d9a48ce-b764-49cb-be42-f906f24b219c",
+        "in_game_name": "Kureot",
+        "time": "2019-03-03 10:12:40",
+        "reason": "大量破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6d3b407e-ed17-49c9-b4d7-6c2493e38a81",
+        "in_game_name": "ER_TW",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d01e8f45-3a60-4d59-b014-413616eeb86a",
+        "in_game_name": "KiritoBrianHuang",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、企圖殺人"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "4399ea45-117a-422a-9d42-e1a078def878",
+        "in_game_name": "Salava",
+        "time": "2019-03-03 10:12:40",
+        "reason": "大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "7646c4ab-9d77-4d94-b1a4-11908798fe7b",
+        "in_game_name": "silverfangs0011",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "52d92391-18c1-4a6f-b8f7-74aa08822087",
+        "in_game_name": "Bad_master",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、態度惡劣"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "4070da39-a83d-48a8-970c-f67c779bb739",
+        "in_game_name": "JasonWeng",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5b2c2e34-0617-4d30-96f5-c68ee56fe8b3",
+        "in_game_name": "j85369jkkk",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "77470ea6-8250-4e37-8398-e3cef4b084e7",
+        "in_game_name": "proven1204",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6ad9b0fb-58cb-4f5b-ad10-b61bdb4efe77",
+        "in_game_name": "ND_Shadow",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ea1e0dc0-1100-4271-a220-108f95365622",
+        "in_game_name": "cheongtaktin",
+        "time": "2019-03-03 10:12:40",
+        "reason": "烏路破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d03439ea-fc2d-49d1-bc64-22415df7e3c3",
+        "in_game_name": "Re_inga599",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c78ca7e8-4cd9-4853-8334-2de74396e08d",
+        "in_game_name": "Lemon10047",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "44eda09d-7c2c-4817-9756-0f3f9c936df7",
+        "in_game_name": "TDK_jack",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ba1c698d-ec35-4517-8ca4-4e270db7efa6",
+        "in_game_name": "TzuyuXTwice",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8abea659-8fb7-4c58-b02a-225894591358",
+        "in_game_name": "hank40115",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "529b111d-038f-4694-9aa2-35142100c71c",
+        "in_game_name": "MattCheng",
+        "time": "2019-03-03 10:12:40",
+        "reason": "大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "414de412-3e3a-4e22-8541-81f491613a38",
+        "in_game_name": "JayChou",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "39ddfb0f-f506-416f-9d4e-abaf64b27569",
+        "in_game_name": "Smile9753",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、偷竊、殺人、侵害財產"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "cbe53616-3ed3-42a7-a935-1fc1d2bb0299",
+        "in_game_name": "Instant666",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3e262cb5-9ea1-4445-bdee-b69161ceadda",
+        "in_game_name": "YUKINNN",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "cf69c63b-95ff-4664-ba8e-f38bb52ac632",
+        "in_game_name": "DarkBurn_",
+        "time": "2019-03-03 10:12:40",
+        "reason": "飛天外掛、恐嚇攻擊伺服、殺人、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9efd36f0-4869-4c6b-8134-690c36c7677c",
+        "in_game_name": "vincent930101",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b8656208-3de3-4445-8f52-29bf13b0e85a",
+        "in_game_name": "MakeHistory096",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、謾罵、殺人"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "995c8595-3a4c-44f9-85c5-5e640841fc00",
+        "in_game_name": "the_how",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0a595aa9-0078-47d2-9a7d-3d18b08a7fef",
+        "in_game_name": "KzeeKiller",
+        "time": "2019-03-03 10:12:40",
+        "reason": "殺人"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c48210de-0348-444f-a47d-9301b274a4b5",
+        "in_game_name": "OoransuoO",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "feaecd2d-0b9d-4c3d-b1dd-5efd0a18e308",
+        "in_game_name": "BBnjnguSHD",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5028aaaf-085a-4cc2-b01a-5e950c3e2ca1",
+        "in_game_name": "AnthonyHuntz",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5de60e54-e4d9-4cca-9bca-5ae00ac5e929",
+        "in_game_name": "Bad_Guoer",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、態度惡劣"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c3a23dd6-4bd5-4a5c-b981-0a5521d3d2a9",
+        "in_game_name": "InabaTsukuyo",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "da32bd69-0418-4d99-a77c-86eae419bd1c",
+        "in_game_name": "KAE49618897",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "62ad021e-35a5-4de9-847c-ae3bb0def30b",
+        "in_game_name": "shiauyue",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b6e19183-e58e-4af1-a3ce-4f423ffd863b",
+        "in_game_name": "brian94",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、殺人"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f43ef1e4-fb2f-448f-a5c3-78d2cae55144",
+        "in_game_name": "Pumaxcheung",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6b09618f-43d1-48dc-b095-89fbef702b31",
+        "in_game_name": "APLoser",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9f7a163d-59e2-4dee-9d79-2f151a0a113f",
+        "in_game_name": "HanMalian",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e9e3b48f-84f2-4c52-9709-1c6c7fc981ed",
+        "in_game_name": "toygod",
+        "time": "2019-03-03 10:12:40",
+        "reason": "疑似偷竊 、態度極為不佳"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "355e47d1-3e51-4bca-8d89-b929d2c2457d",
+        "in_game_name": "MAMMO_TW",
+        "time": "2019-03-03 10:12:40",
+        "reason": "外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5b2c9d13-a722-454d-a276-82897a55362e",
+        "in_game_name": "ince123",
+        "time": "2019-03-03 10:12:40",
+        "reason": "重生點島建築"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6c7b8e35-b1c8-4f81-8f1b-4bcf3386ed45",
+        "in_game_name": "a_blue_sky",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "092f02d0-4f9b-441f-98c9-871ca9e390e0",
+        "in_game_name": "DeathDragon654",
+        "time": "2019-03-03 10:12:40",
+        "reason": "主世界開礦、破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f61ff5fb-1a94-48cb-a8ca-0bc2b1b95d77",
+        "in_game_name": "EunisHo_OvO",
+        "time": "2019-03-03 10:12:40",
+        "reason": "惡意殺人"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5fd1a7c0-2852-453f-882b-6008a822ece8",
+        "in_game_name": "michaelpig0716",
+        "time": "2019-03-03 10:12:40",
+        "reason": "透明材質開礦，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d8f98c8a-c944-4b95-8d7a-472f2f61acff",
+        "in_game_name": "five_green",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b07bd593-9fc5-4e9d-a517-bbc201246d6b",
+        "in_game_name": "HoratioLee",
+        "time": "2019-03-03 10:12:40",
+        "reason": "多處破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "dc745021-908a-43a2-b1d1-32798a916966",
+        "in_game_name": "StupidPig",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、逾時未回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "7e84df04-24be-45cc-a0be-511bffef209f",
+        "in_game_name": "HenryKwong907",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "4698fcf4-2d7f-4758-a7c9-c3d30d908cae",
+        "in_game_name": "kaiser8866",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d37f3250-242e-475e-9797-3cdfbd8acdea",
+        "in_game_name": "hardykuo",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9477677d-ad24-4c44-b3be-48a7d1544523",
+        "in_game_name": "Nico9_3",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6c1df8a9-cf67-461c-b573-590efcb820d3",
+        "in_game_name": "Rick0920",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "22b40cbf-818f-4694-9d2d-01ae71eebacb",
+        "in_game_name": "brian_0903",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "49f278e4-bf3a-4c78-abdd-a201cc21223f",
+        "in_game_name": "T_Hunter_W",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "104e6ba9-5932-4ed2-912e-f87a700a7fbd",
+        "in_game_name": "Broderick_OUO",
+        "time": "2019-03-03 10:12:40",
+        "reason": "利用bug點洗道具"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f2dde436-0bc6-4089-85bb-e58d7effe90c",
+        "in_game_name": "guanlinbao",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "fc1b9135-316c-4cbc-9cc3-021a33c1bdf9",
+        "in_game_name": "Bad_ninetynine",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、態度惡劣"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d9c99177-0562-4615-a465-e0fa5490fde6",
+        "in_game_name": "MazMazi",
+        "time": "2019-03-03 10:12:40",
+        "reason": "烏路破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "351c29e4-3906-4089-af96-87e815665ec4",
+        "in_game_name": "halonaa",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞式偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d6bac813-c8c4-4a9c-94ea-8f714bf69ea3",
+        "in_game_name": "linda122930",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f411fd76-923a-43e2-af83-a379e5f9dbeb",
+        "in_game_name": "AnsonChow",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、殺人、言行不檢點"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "77211e68-3626-4140-91f8-f583e574a59d",
+        "in_game_name": "book_No300",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f9776d8b-b301-4fe2-b83c-ac1432578154",
+        "in_game_name": "2002970000",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾期未說明"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "67fbbaae-622d-4da1-adc2-032c8f970c3e",
+        "in_game_name": "123minecraft",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞、主世界挖掘"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "825de57a-a1cd-4116-8bc2-507edb6364e7",
+        "in_game_name": "gogo930104",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "453442a8-c56b-4d39-adeb-2261a6dd5f35",
+        "in_game_name": "nicerabbit",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f7f0e410-39bb-4dcd-9048-de03fd8240e2",
+        "in_game_name": "DEADSHOT5487",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d94503bb-5ea7-4eb7-9394-606fb6a8ad66",
+        "in_game_name": "RubySunny",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c3e74e83-58d4-4e78-ae08-0b1ba062a291",
+        "in_game_name": "PalmDessert",
+        "time": "2019-03-03 10:12:40",
+        "reason": "大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0fa328e7-aa33-4443-9c65-4a4ca75e816f",
+        "in_game_name": "AltArmy9",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2fb6f971-cac5-46bf-aaa3-240f27c90696",
+        "in_game_name": "Candy_yeung",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "616e0a53-af69-41c9-8807-3a209b83e426",
+        "in_game_name": "daniel0307",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f462fd27-28c1-4fce-8d2f-eed391341499",
+        "in_game_name": "adam30104",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "13d3ebc4-f0b4-4e75-92d6-54b87b2ed1cf",
+        "in_game_name": "mt6884",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c00de4dd-ecfb-4394-ab6e-6a10412c2b75",
+        "in_game_name": "I_Love_yoyo",
+        "time": "2019-03-03 10:12:40",
+        "reason": "烏路破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8f31b956-da0d-4894-a80e-7e8b96765953",
+        "in_game_name": "mc7190",
+        "time": "2019-03-03 10:12:40",
+        "reason": "飛天外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8065905e-371f-46e1-9b57-5112ed1f2175",
+        "in_game_name": "melvin1015",
+        "time": "2019-03-03 10:12:40",
+        "reason": "主世界開礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5566f465-f46b-4fb3-b589-0763e6fd4175",
+        "in_game_name": "_xBenz_",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "15e598d8-8827-4587-9f9f-38bb2b101f17",
+        "in_game_name": "ChenGad",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "aee26739-8e3e-4dda-bb49-50fbc3a9b8a4",
+        "in_game_name": "Dark_Fantasy",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "57db0803-af24-4d66-9f16-19b87af3a279",
+        "in_game_name": "bobo_Ice_shadow",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2e08e676-c95c-4225-8645-82d9271c3245",
+        "in_game_name": "HankChenY2016",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3726e754-2878-433a-8beb-53c3f87940d9",
+        "in_game_name": "FabsenG",
+        "time": "2019-03-03 10:12:40",
+        "reason": "主世界開礦、逾時未回應"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c9bc6bb2-42bc-46bd-9d9c-0cd251a71077",
+        "in_game_name": "5433",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5f4c880a-8523-42b8-bd0c-c501f07d5ef5",
+        "in_game_name": "peterchou",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、殺害目擊玩家"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "fcf80d6a-33cd-43d3-bf50-398c35961675",
+        "in_game_name": "q287950091",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8e3a7087-180d-4cc7-8424-27b088db2e32",
+        "in_game_name": "minecraft_edmond",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、上線又下線、未解釋、未回應管理員"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "bde92daa-ee7b-4cfc-a5ef-2fb7344f4aa8",
+        "in_game_name": "DannyChen",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "669df030-2171-42ee-af0b-df1fcf67780e",
+        "in_game_name": "little_chee2",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "de5e1338-8b54-4d79-9b7b-18ae602df75e",
+        "in_game_name": "88887654",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊、破壞、主世界挖掘"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8fd8fbd8-4400-477a-9f98-bc84312dd376",
+        "in_game_name": "shuoyao",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊不認罪，下線逃逸"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "983e1bb3-ef6d-4e5f-ae65-dd9e782fe8fd",
+        "in_game_name": "Naughty_Fire",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d4d73d05-3a67-43a7-8c65-33b352c8512e",
+        "in_game_name": "MjasonM",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "54d5bc0a-5cff-4c9b-96ef-958fedfe632a",
+        "in_game_name": "Coffee_Scorpion",
+        "time": "2019-03-03 10:12:40",
+        "reason": "嚴重偷竊、破壞、殺人"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "7c38d1ef-1618-4dd8-9e76-85c404d55859",
+        "in_game_name": "vitamin_C1",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊，破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "bec8cb16-d7c4-4824-ae8e-fb378557f0ac",
+        "in_game_name": "Hey_Frank",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c9987480-94e1-4520-9d60-752c55c9ea67",
+        "in_game_name": "chestred",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "eb9648de-e5d0-4995-b65d-ee5285c4abb9",
+        "in_game_name": "Mingray",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e9cbcffe-56d7-44bf-b8f5-3a3e90e6d4fd",
+        "in_game_name": "HankHD",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、偷竊、殺人、謾罵、洗頻"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b85be1e2-b9a7-430b-9890-d28f04ae1fac",
+        "in_game_name": "_0Godzilla0_",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞、偷竊、死不認錯"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d878ad91-7976-428f-80b4-556828a3d017",
+        "in_game_name": "billhsu",
+        "time": "2019-03-03 10:12:40",
+        "reason": "各種破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "eafc208b-843b-4a19-bfde-6f41875b3273",
+        "in_game_name": "X1FireWarrior426",
+        "time": "2019-03-03 10:12:40",
+        "reason": "自認外掛、殺害他人生物與偷竊物品"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "33ff53b3-deae-49af-b8e0-1aa368477e61",
+        "in_game_name": "itsbosco1025",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6bfd8e96-2518-45c8-bd6b-f053c9dceeeb",
+        "in_game_name": "SolarLunar9999",
+        "time": "2019-03-03 10:12:40",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5e58fc6e-38ac-4b14-8a88-f061997f3588",
+        "in_game_name": "a40971484",
+        "time": "2019-03-03 10:12:40",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b05b49b1-7e34-4e94-8031-0e56c2615124",
+        "in_game_name": "LDaniel_Bacon",
+        "time": "2019-03-03 10:12:40",
+        "reason": "多次破壞、謾罵、利用BUG跳過船票重複刷副本"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6aa7f63f-32f1-477c-b112-4dedd6b73ac6",
+        "in_game_name": "Adminshop",
+        "time": "2019-02-21 04:15:06",
+        "reason": "插件用戶口"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6af0098f-c32e-454e-b992-7173031795ab",
+        "in_game_name": "PaperPaper11977",
+        "time": "2019-02-20 22:23:52",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "73fbaaea-ee92-4339-b812-8e2fecaa8f24",
+        "in_game_name": "stu1040005",
+        "time": "2019-02-20 22:23:11",
+        "reason": "偷竊、破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "61b3251a-597c-4cb5-81f4-19cefec554ff",
+        "in_game_name": "Bluestartw33",
+        "time": "2019-02-15 00:48:36",
+        "reason": "偷竊、愈時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "488d884e-fff2-413a-a75e-b7d2a71860f0",
+        "in_game_name": "Oscar_87",
+        "time": "2019-02-15 00:48:04",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "16b9df68-cef9-42a3-98d1-3794aed9bca6",
+        "in_game_name": "ECH087",
+        "time": "2019-02-15 00:45:31",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "627cca02-3463-48e3-b0f3-88939cd7d872",
+        "in_game_name": "Hea_die",
+        "time": "2019-02-10 14:07:15",
+        "reason": "擅自破壞公共建築、問答後無果"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2fbcba2e-80d4-4cca-89e3-bef7e18beb73",
+        "in_game_name": "Andy1117",
+        "time": "2019-02-09 21:58:43",
+        "reason": "偷竊、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ae3941d3-57dc-4c5a-8d30-cb54c475c1f8",
+        "in_game_name": "its_highwind_YT",
+        "time": "2018-12-18 21:03:30",
+        "reason": "大量破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2ed1fca7-75b2-43c6-8339-6104be016327",
+        "in_game_name": "Xmamon60405b",
+        "time": "2018-12-12 20:30:37",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "cb221a09-2cf4-435a-9bcb-68b090f342c5",
+        "in_game_name": "benson66687",
+        "time": "2018-12-11 11:09:49",
+        "reason": "無故鎖他人箱子、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0e638daf-0bd8-4f96-9f91-626b67d3b236",
+        "in_game_name": "HOWARD9911",
+        "time": "2018-10-14 14:59:52",
+        "reason": "主世界開礦、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e3863695-e707-42c5-8389-4b13b5630b57",
+        "in_game_name": "Shiauyue",
+        "time": "2018-10-14 14:53:55",
+        "reason": "破壞、無法溝通"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "80bffa32-4a66-4293-b852-cbb8dc9837fb",
+        "in_game_name": "Gungnirs",
+        "time": "2018-10-14 14:35:54",
+        "reason": "惡意殺人"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "7ae91467-6b98-49a6-93a7-39b1dca5bd01",
+        "in_game_name": "Stupidpig",
+        "time": "2018-10-14 14:35:19",
+        "reason": "偷竊、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3ceb460e-c7fa-494c-8d21-8161f0dee305",
+        "in_game_name": "Pinguan",
+        "time": "2018-10-14 14:14:48",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b2c9622d-74d4-4975-9c02-4c53c5e7e2fe",
+        "in_game_name": "gary9876",
+        "time": "2018-10-14 14:13:40",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "fdd25b21-e87a-4cec-adce-21da6d49c287",
+        "in_game_name": "Wither_quiet",
+        "time": "2018-10-14 14:09:36",
+        "reason": "偷竊、無法溝通"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "815c75a6-515b-4a64-9378-aebb2acf0251",
+        "in_game_name": "vitowu104411",
+        "time": "2018-10-14 14:08:50",
+        "reason": "全自動連閃機關、未解釋及下線"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c6c2e353-1421-4a74-ba45-a02feec64c3d",
+        "in_game_name": "Hey_Loon",
+        "time": "2018-10-01 00:34:32",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "7fab98af-e250-40db-ae69-88090c3082a7",
+        "in_game_name": "kkkkkkiug",
+        "time": "2018-09-30 21:28:11",
+        "reason": "大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "7bf3cba7-8628-4215-b68f-ffa826042e84",
+        "in_game_name": "Maple0711",
+        "time": "2018-06-21 01:58:18",
+        "reason": "飛行外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f345cb31-5949-4de9-8e95-ed575e28ca77",
+        "in_game_name": "pineapplecakse",
+        "time": "2018-05-31 16:24:59",
+        "reason": "全自動紅石機關、多次警告、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "49ac2f0d-7fba-4dbe-9601-66e9618f8876",
+        "in_game_name": "Larry_Chou",
+        "time": "2018-05-31 16:24:16",
+        "reason": "多處破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "517da578-26a6-46b8-b55f-099fe8ef4ddc",
+        "in_game_name": "chumpyfire2451",
+        "time": "2018-05-10 16:11:57",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "17ed0da7-3d97-422c-bdea-eabf47599e9c",
+        "in_game_name": "steytudhat",
+        "time": "2018-04-23 05:58:58",
+        "reason": "大量破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a86fc40e-4f3e-4784-bed5-0ed222ef7f5f",
+        "in_game_name": "Yuanyutang06",
+        "time": "2018-04-03 16:42:48",
+        "reason": "偷竊、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c9d841e7-a357-4b4b-9c9d-bb57f745ec68",
+        "in_game_name": "LightningMe",
+        "time": "2018-03-13 02:45:12",
+        "reason": "堆疊機關造成伺服器負擔、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "22265d01-2ccc-476d-a339-f6e22e27433e",
+        "in_game_name": "Ameow520",
+        "time": "2018-03-06 21:23:10",
+        "reason": "主世界挖礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f6c5dfff-ffdb-49ad-b82b-0e855c50aecb",
+        "in_game_name": "JayTangtw",
+        "time": "2018-03-05 11:52:43",
+        "reason": "擅闖民宅、破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "956233bb-6674-4e89-8f9c-fe714039bbed",
+        "in_game_name": "jim1278",
+        "time": "2018-02-28 16:57:10",
+        "reason": "主世界開礦、無法進行人類溝通"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "567c8fbe-8b16-443e-ad50-a092fb9b015f",
+        "in_game_name": "July480",
+        "time": "2018-02-19 12:58:59",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8a9bf1e2-7a4c-40da-a7fa-dbbcb33fe1ff",
+        "in_game_name": "alanWu_OuO",
+        "time": "2018-02-19 12:58:39",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9e45297c-9b7c-4e54-a8db-1ea70bbfccf1",
+        "in_game_name": "54randy",
+        "time": "2018-02-17 12:27:33",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ecf3202a-ed98-4a25-82e0-87f52a7fc3fd",
+        "in_game_name": "shih_1122",
+        "time": "2018-02-10 21:39:56",
+        "reason": "偷竊、未解釋及下線"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c196060a-3a7c-4815-a741-58da62928f98",
+        "in_game_name": "regf2",
+        "time": "2018-02-08 00:16:23",
+        "reason": "謾罵，無法溝通"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "eeaf9085-9705-4cea-9363-0a428bd3c11d",
+        "in_game_name": "jason9487",
+        "time": "2018-02-05 21:50:02",
+        "reason": "偷竊、破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "160ecb98-0636-4b63-85bd-6f86f540a401",
+        "in_game_name": "The_PolarOmega",
+        "time": "2018-02-01 21:03:00",
+        "reason": "偷竊、現行犯、無法進行人類溝通"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "bb43a093-9278-4b47-ac21-64def98b0829",
+        "in_game_name": "kirito_Matthew",
+        "time": "2018-01-28 01:05:05",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5d8ca1cb-34a7-4ae0-b732-be59af8d065f",
+        "in_game_name": "JJsofa",
+        "time": "2018-01-28 00:51:48",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5308d113-cb78-4665-92d5-c5dedf3b77b9",
+        "in_game_name": "oo0w0oo",
+        "time": "2018-01-25 02:36:47",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "38604097-ba62-46df-a517-0270c273cee0",
+        "in_game_name": "suzuki2008",
+        "time": "2018-01-24 17:02:07",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "fd46f785-43c1-478f-a714-158c2234fd73",
+        "in_game_name": "Bear_0421",
+        "time": "2018-01-21 05:13:25",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "20acc4f5-0d19-48ef-b082-f5209ef7d792",
+        "in_game_name": "BakisteinBigDeal",
+        "time": "2018-01-19 12:01:39",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "728edd51-3bf2-4060-9d7d-efeec6a574e2",
+        "in_game_name": "Eternal_future",
+        "time": "2018-01-17 18:36:55",
+        "reason": "主世界開礦,規勸無效"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "43fea40d-bb37-41f6-ab10-e1fe174c2d7d",
+        "in_game_name": "Andmaple",
+        "time": "2018-01-04 12:31:13",
+        "reason": "殺害玩家、破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "1a03f524-d5e3-4cea-9033-bee52ac8f7ed",
+        "in_game_name": "CharlieZX",
+        "time": "2017-12-30 22:23:25",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "687f762f-0e66-40dd-9132-ddc0f5bcab3d",
+        "in_game_name": "Snower_cat",
+        "time": "2017-12-22 02:36:37",
+        "reason": "破壞、殺害私人生物、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "dfaa0913-10a8-4f68-b6a0-549f716135a9",
+        "in_game_name": "hsueheason",
+        "time": "2017-11-08 22:56:02",
+        "reason": "殺害私人生物、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c1fa6aff-4877-4b96-a6b3-7e719de08657",
+        "in_game_name": "Toxi3003",
+        "time": "2017-11-01 23:23:44",
+        "reason": "永久否決"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3466bc38-d5dd-4b66-8650-db89f67547ac",
+        "in_game_name": "AsunnaYuuki",
+        "time": "2017-11-01 23:23:34",
+        "reason": "永久否決"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "44035d70-8316-4e15-9587-a64ef2018cad",
+        "in_game_name": "AlwaysClout",
+        "time": "2017-11-01 23:23:19",
+        "reason": "永久否決"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b7970f64-c3a9-4ceb-9bdf-c56c3d0b08a4",
+        "in_game_name": "Max950902",
+        "time": "2017-10-26 11:46:51",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "25b5ca8c-c923-4ea4-885e-15b5f5fa0bd4",
+        "in_game_name": "hkdnicky",
+        "time": "2017-10-18 18:25:26",
+        "reason": "破壞、逾時未解釋、詢問逃避及下線"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "453459f8-6bc6-404c-887b-e815cd9488f6",
+        "in_game_name": "tason0916",
+        "time": "2017-10-13 01:54:10",
+        "reason": "偷竊、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "cc3a7b18-ac74-4876-b81e-be4e473b33c0",
+        "in_game_name": "jack0907",
+        "time": "2017-10-13 01:53:46",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a5cfeec1-c867-4218-911f-b2d050457f2e",
+        "in_game_name": "ChocolateBlack01",
+        "time": "2017-10-02 22:00:59",
+        "reason": "破壞、多次犯案不知悔改"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "efc2e0b3-918e-4e21-8e17-56d90281d66b",
+        "in_game_name": "Dada_aqjason",
+        "time": "2017-09-22 16:14:10",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b52e90ed-a322-47be-821c-b66e6933468c",
+        "in_game_name": "xiaoten",
+        "time": "2017-08-31 16:04:07",
+        "reason": "偷竊、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "461e3f75-6bbb-4ca8-8ac4-c607f8af33a3",
+        "in_game_name": "stevenzhu",
+        "time": "2017-08-28 09:10:49",
+        "reason": "透視現行犯"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9d1b6403-662c-45fc-9c60-28add4a09443",
+        "in_game_name": "Sweetlikefon",
+        "time": "2017-08-27 13:17:58",
+        "reason": "過度拿取公用箱物品、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5a3b173c-2fa9-41f4-879e-4c8e202b4b9a",
+        "in_game_name": "Flowerbean",
+        "time": "2017-08-20 13:37:45",
+        "reason": "主世界開礦、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "402dade6-5867-4300-99b4-1e292526e09f",
+        "in_game_name": "Gundam007",
+        "time": "2017-08-04 22:26:36",
+        "reason": "透視"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a8277145-e710-4343-a35d-f3abaf317cf9",
+        "in_game_name": "AwwBarry",
+        "time": "2017-08-04 22:26:13",
+        "reason": "透視"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a6ac7f32-666e-47bb-8cf1-d16c280ae1e2",
+        "in_game_name": "_CutePenguin520_",
+        "time": "2017-07-29 18:06:20",
+        "reason": "偷竊、現行犯、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "389bbd70-7990-4370-9783-447cbaa91a8e",
+        "in_game_name": "benbencookie",
+        "time": "2017-07-29 18:05:29",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3deeccaa-6446-4a4f-8973-6fae1c46c368",
+        "in_game_name": "ChandlerOuO",
+        "time": "2017-07-29 18:05:11",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d3c14bc3-28b1-4b4d-aca8-698838e2bd10",
+        "in_game_name": "Randysung",
+        "time": "2017-07-26 11:47:40",
+        "reason": "相關罪刑：破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "bb7af8cd-8877-498d-83e5-d593064e490a",
+        "in_game_name": "Capoo_ylo",
+        "time": "2017-07-26 11:47:16",
+        "reason": "相關罪刑：破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3ed00eb3-6213-4306-a111-320724124a82",
+        "in_game_name": "ShiliewJK",
+        "time": "2017-07-14 12:33:22",
+        "reason": "破壞偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a87a2df6-a06d-41f7-bd0a-e3040550092d",
+        "in_game_name": "ender5030",
+        "time": "2017-07-12 17:48:59",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "eed5d901-c84a-4779-ac6c-2443231d85f6",
+        "in_game_name": "jeremyho",
+        "time": "2017-07-10 23:52:51",
+        "reason": "班叔好朋友"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8b21dc94-dcf4-409a-8c2e-a9d889447bf5",
+        "in_game_name": "Pinguan",
+        "time": "2017-07-09 20:44:51",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ff0ab415-1a01-404b-9635-c19a75d40897",
+        "in_game_name": "taiwan98",
+        "time": "2017-07-09 19:10:02",
+        "reason": "透視"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a0f4b6ba-eb70-458c-b81c-fb102d6b48e4",
+        "in_game_name": "KenScorpio",
+        "time": "2017-07-07 22:18:58",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f1a1f407-9b07-4b8c-852d-94c9d85c9832",
+        "in_game_name": "wanzong",
+        "time": "2017-07-07 22:18:55",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b72d0d64-a958-4203-8326-75d55c64bf96",
+        "in_game_name": "QDog22",
+        "time": "2017-07-07 22:18:52",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d74d014f-e5a7-494a-8b41-873f2d6ccd66",
+        "in_game_name": "AnselmSo218",
+        "time": "2017-07-05 09:59:05",
+        "reason": "非法鎖其他玩家的門"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8ae121f5-deb7-4537-9847-b526e9b0abb1",
+        "in_game_name": "JingLIU",
+        "time": "2017-07-05 09:58:57",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a02fdfcb-e45f-4fd6-ac1e-35fa21c0b83b",
+        "in_game_name": "thomas1128",
+        "time": "2017-07-05 09:48:19",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8a03b7ef-2d9c-4585-9046-e50212ed5604",
+        "in_game_name": "NavyMine",
+        "time": "2017-07-03 17:21:29",
+        "reason": "入侵舊祭典町破壞,偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "19201cd4-e537-4c9e-b1d1-8910f452eeef",
+        "in_game_name": "kenny950922",
+        "time": "2017-06-30 23:59:04",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c5d3c3a6-724b-45b9-9db7-c0b92b6954d0",
+        "in_game_name": "Brian10032004",
+        "time": "2017-06-30 14:07:20",
+        "reason": "破壞,態度不佳"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5de592ea-2578-4769-9b13-088005308910",
+        "in_game_name": "Hung_jim",
+        "time": "2017-06-27 19:17:17",
+        "reason": "逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ce12e2d0-c4b0-4f48-ab6c-2f40d0a16854",
+        "in_game_name": "MAMMO_YT",
+        "time": "2017-06-27 19:17:13",
+        "reason": "主世界挖礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "bd1be9c0-5ae1-4e25-bb92-bb7c92e7980f",
+        "in_game_name": "Ode_ZhaoMing",
+        "time": "2017-06-27 19:17:07",
+        "reason": "疑似使用透視"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c9e75e87-d39a-480c-b53e-70bb95abbd8f",
+        "in_game_name": "FEIFEI18",
+        "time": "2017-06-22 19:24:46",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "471d8a1d-e328-4a79-be9e-5b518fcfda97",
+        "in_game_name": "fatibrother",
+        "time": "2017-06-20 11:12:00",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d7433cbd-42c4-4de6-8189-92d8a3fc4a05",
+        "in_game_name": "wallace0511",
+        "time": "2017-06-19 23:59:58",
+        "reason": "偷竊大量破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "648866a2-ccb2-42ea-b226-0768e80e096b",
+        "in_game_name": "peggyJKP",
+        "time": "2017-06-19 20:05:06",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "931a8bff-b091-4142-97d9-8589a72bbd9f",
+        "in_game_name": "dgdesign",
+        "time": "2017-06-15 19:59:09",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "070ef43f-e912-40f6-b346-e10ab57085d9",
+        "in_game_name": "andrewhsu1116",
+        "time": "2017-06-15 19:59:04",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ee4cca4e-7ccc-409e-a02b-db59108efc6f",
+        "in_game_name": "isaaclou315",
+        "time": "2017-06-10 21:06:31",
+        "reason": "透視"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2d1d3195-456e-42e9-8a3e-fcc007f6d184",
+        "in_game_name": "Karabari",
+        "time": "2017-06-07 18:29:16",
+        "reason": "透視"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0fce66a5-defd-4727-b7ad-f8e9a6e493ff",
+        "in_game_name": "XOHatsuneXO",
+        "time": "2017-06-05 11:16:57",
+        "reason": "無故鎖公共補給箱"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "98946e81-3027-47a9-86ad-a7a148251a65",
+        "in_game_name": "charles0915",
+        "time": "2017-06-03 20:00:20",
+        "reason": "殺害他人生物、詢問不予理會"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9ecfc234-4c99-44f0-b637-de28678438ac",
+        "in_game_name": "RickyShen",
+        "time": "2017-06-03 14:34:31",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d1353669-56a9-406d-9644-b64a912e9959",
+        "in_game_name": "Iamhandsome",
+        "time": "2017-06-01 00:21:13",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0c2a4686-bede-44be-b82b-0db84fe940de",
+        "in_game_name": "Daniel_0218",
+        "time": "2017-06-01 00:21:06",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "264c7da3-dfbf-4520-aa93-d755f718dffd",
+        "in_game_name": "chocowind797",
+        "time": "2017-06-01 00:20:58",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "56e33a25-fc4e-489d-aee0-4c457b8827f2",
+        "in_game_name": "Seasonking",
+        "time": "2017-05-28 19:42:14",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "795c61e2-b134-442d-9919-08979b875a99",
+        "in_game_name": "_R_e_m__",
+        "time": "2017-05-25 23:00:39",
+        "reason": "偷竊贓物未歸還"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d5c93b27-7d8e-4d60-baf0-7ae0b84a8f5f",
+        "in_game_name": "WilsonQAQ",
+        "time": "2017-05-25 19:29:53",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "21c4f8e8-0e80-48e6-85f8-6727f9d19b14",
+        "in_game_name": "Kevin_Alice_TW",
+        "time": "2017-05-22 05:30:09",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6c12ed6d-520d-45b7-9861-131633173cfb",
+        "in_game_name": "Aiden0730",
+        "time": "2017-05-19 23:13:27",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "af4b1286-4ec7-4f28-bcb9-e298d3849346",
+        "in_game_name": "joshua931109",
+        "time": "2017-05-16 21:02:19",
+        "reason": "主世界開礦、破壞他人建築用地"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6ef8d8a4-f530-4225-a0f5-1af3c3e417b1",
+        "in_game_name": "samuel940114",
+        "time": "2017-05-15 17:55:05",
+        "reason": "無故鎖新手補給箱、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d8b001c8-f20b-41f3-b4e7-b4808cfadb6d",
+        "in_game_name": "Brian1111",
+        "time": "2017-05-13 14:10:56",
+        "reason": "破壞公用地區,態度不佳"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "cbff177b-138f-46f3-9319-a93fe615465a",
+        "in_game_name": "Rayyu0404",
+        "time": "2017-05-02 16:51:50",
+        "reason": "偷竊、破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "03e83766-b514-4ff1-8347-44b4be3a3cf0",
+        "in_game_name": "w20050828",
+        "time": "2017-05-01 19:44:13",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "46c1faaa-5ef1-42cb-952d-c1a5f59bb516",
+        "in_game_name": "YomoY_yoyo_Loser",
+        "time": "2017-05-01 19:44:01",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e773826c-11b2-42fb-a72c-dd87a4b8278c",
+        "in_game_name": "Ultimate_Zed",
+        "time": "2017-04-29 16:28:50",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "139b4d16-9321-4681-89d4-1df88bc0ebba",
+        "in_game_name": "CHINAUNIFY",
+        "time": "2017-04-29 11:21:06",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3c6dc58f-ef46-4e07-90ca-d322f31b8567",
+        "in_game_name": "rubik_cube",
+        "time": "2017-04-20 10:36:12",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8f7eda01-e969-427e-a444-9ead53a5bf8c",
+        "in_game_name": "chariot_cac",
+        "time": "2017-04-15 22:12:41",
+        "reason": "主世界開礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "acff0d86-57ad-4f6e-8c42-46d341817e63",
+        "in_game_name": "VICTOR123456789",
+        "time": "2017-04-10 22:23:10",
+        "reason": "偷竊、破壞，逃避即下線"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5ac8128b-0334-4493-b0ac-d7ceea3d94fe",
+        "in_game_name": "Kabiso",
+        "time": "2017-04-10 21:23:55",
+        "reason": "破壞、偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c759b487-8809-4df9-b6a5-cff18cd9efd4",
+        "in_game_name": "FlatBall",
+        "time": "2017-04-10 21:23:25",
+        "reason": "破壞、偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "64048499-9c4a-42d8-910f-b9d7a4da2fb7",
+        "in_game_name": "TheDarkPvPer",
+        "time": "2017-04-10 21:22:39",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ebfe940b-2654-46d1-8044-4bca7bb8efcf",
+        "in_game_name": "Yanripoi",
+        "time": "2017-04-10 21:19:39",
+        "reason": "擅取肥皂，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "09a69814-c22d-4aea-ae35-2734aac03b82",
+        "in_game_name": "matthewcny",
+        "time": "2017-04-10 21:18:04",
+        "reason": "破壞、偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "73885101-1060-492a-a7df-b5c5c257d9be",
+        "in_game_name": "BlueIceWC108",
+        "time": "2017-04-10 21:14:45",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "073111b7-5acc-44be-a9b7-cb9a6fa9feb6",
+        "in_game_name": "Roundmomo",
+        "time": "2017-04-10 21:11:21",
+        "reason": "主世界挖礦開坑，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "6839246d-00ab-4711-bd34-5ffa7fb0947b",
+        "in_game_name": "raymond2322",
+        "time": "2017-04-10 21:11:01",
+        "reason": "偷竊，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "95a6a30b-a9ec-4d46-9231-5acde20a6049",
+        "in_game_name": "Oo_BlackFlame_oO",
+        "time": "2017-04-10 18:07:04",
+        "reason": "多處破壞,偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "080e2b37-0db1-4ff5-a70e-0582459c4a09",
+        "in_game_name": "superallen100",
+        "time": "2017-04-10 18:01:03",
+        "reason": "破壞，逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ad6d56b1-b46d-4cd5-a54c-af03b3984a9d",
+        "in_game_name": "iron_iron3_14",
+        "time": "2017-04-09 16:04:03",
+        "reason": "破壞，未解釋即下線"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "68bc2f6c-9508-4656-b739-6b4f5e90d4d4",
+        "in_game_name": "_Ender_noovmrj",
+        "time": "2017-04-08 21:36:11",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3d0e57e3-e4a1-48c0-bb20-696be881fcd0",
+        "in_game_name": "lattecoffe",
+        "time": "2017-04-05 20:06:47",
+        "reason": "大量洗頻逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c446d700-d66e-4172-9ea5-ef3c97f2a0c2",
+        "in_game_name": "cindyya",
+        "time": "2017-04-05 20:06:43",
+        "reason": "大量洗頻逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "fa8de9e1-9ecd-4898-94aa-84295bbce56d",
+        "in_game_name": "Chi_chean",
+        "time": "2017-04-02 14:08:11",
+        "reason": "逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "978c44b5-ecbc-4106-ae1a-3fe4836764d3",
+        "in_game_name": "ShadowChick_x",
+        "time": "2017-04-01 22:52:48",
+        "reason": "逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "080ebdf2-036b-4cd4-bef7-87d3e48bdc54",
+        "in_game_name": "cakebruce",
+        "time": "2017-04-01 14:43:42",
+        "reason": "逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "83d55cdb-076d-4484-853d-94772855126a",
+        "in_game_name": "jack84222",
+        "time": "2017-03-31 23:52:22",
+        "reason": "破壞+態度惡劣"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "520330d4-3e0a-4463-99da-22a1e8e0e49f",
+        "in_game_name": "Makinobu",
+        "time": "2017-03-28 17:31:30",
+        "reason": "主世界挖礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "54dfb9a2-ab41-4050-b119-463d4646d85f",
+        "in_game_name": "XxSoulFire469xX",
+        "time": "2017-03-26 18:56:58",
+        "reason": "逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "672cde7f-2f06-4a48-b763-27af8dee4017",
+        "in_game_name": "Star_tw",
+        "time": "2017-03-25 20:25:26",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "42c94c2e-2939-4568-81c2-2604de29d53a",
+        "in_game_name": "Phantom_Glacier",
+        "time": "2017-03-25 20:25:26",
+        "reason": "主世界挖礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f3601da2-437f-485a-ac20-668fbad8b05a",
+        "in_game_name": "to1023tw",
+        "time": "2017-03-20 00:15:31",
+        "reason": "偷竊、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "48a6c6c1-999b-4843-8e70-eba00e646101",
+        "in_game_name": "12345cat",
+        "time": "2017-03-18 12:30:25",
+        "reason": "偷竊現行犯"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2208fd9c-e258-47e1-98c9-e0b06a783e10",
+        "in_game_name": "WTF_H4CK3R",
+        "time": "2017-03-18 11:47:57",
+        "reason": "透視"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d758d86d-0cd1-4995-9b2a-7e8f636568ef",
+        "in_game_name": "creepar_boy",
+        "time": "2017-03-16 09:14:56",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "573e646a-bdee-4a6d-910e-fb4ca3658f58",
+        "in_game_name": "easonyen",
+        "time": "2017-03-16 09:14:06",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "897c51e6-52dc-4d08-a1cb-21f8a5e9c768",
+        "in_game_name": "FrozenTangerine",
+        "time": "2017-03-04 16:20:37",
+        "reason": "態度惡劣"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "817f1d69-e16c-46c5-b890-06f9e323d562",
+        "in_game_name": "7k7king",
+        "time": "2017-03-02 13:01:01",
+        "reason": "破壞、偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9a9634ca-0cda-46d9-8ef2-3fc8bf23ff28",
+        "in_game_name": "Crackercrumbs",
+        "time": "2017-03-02 13:01:01",
+        "reason": "主世界挖礦、大量互殺洗頻"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9aaa4fd6-f19e-40b0-b2aa-bd5373461f3e",
+        "in_game_name": "utonhaha",
+        "time": "2017-03-02 13:01:01",
+        "reason": "主世界挖礦、大量互殺洗頻"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "147f5555-2ddd-4986-a24b-ed1030c7d77d",
+        "in_game_name": "Creeper0202",
+        "time": "2017-02-28 21:15:34",
+        "reason": "殺人、洗頻、騷擾"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b8fb4a0c-5385-4af8-a384-741c6f1a674e",
+        "in_game_name": "Genji_2B",
+        "time": "2017-02-28 09:17:18",
+        "reason": "惡意使用煙火殺人與自殺"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "59b13e4f-e7d1-4fc6-8ba2-a79b7f948b3c",
+        "in_game_name": "Minecraft931014",
+        "time": "2017-02-25 07:03:00",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f7146845-adad-4208-b91c-3e537ed0e45e",
+        "in_game_name": "s32715447",
+        "time": "2017-02-22 21:17:55",
+        "reason": "惡意殺人、逾時未回覆"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "7d6fa3db-1005-4a1e-9650-107878c6176b",
+        "in_game_name": "YipHyGamingYT",
+        "time": "2017-02-17 16:05:25",
+        "reason": "偷竊、破壞、態度糟糕"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5b2e05a5-4ab4-48f0-ba54-fb2d73983be2",
+        "in_game_name": "OoHectoroO",
+        "time": "2017-02-16 21:49:10",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "4b03948c-422f-4f11-b0d5-5170b640a673",
+        "in_game_name": "yoyolin2007",
+        "time": "2017-02-16 18:23:58",
+        "reason": "大規模破壞、大量偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "996d3c02-471a-4c3d-abc3-e07ab6b0e737",
+        "in_game_name": "Nothingness8",
+        "time": "2017-02-12 18:02:05",
+        "reason": "破壞、偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8f3433c7-f724-41ae-8eeb-edf1dc7a16c7",
+        "in_game_name": "ken1103",
+        "time": "2017-02-11 03:52:56",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3cc16121-f6ed-4449-951c-1f6df5edb303",
+        "in_game_name": "brokid1001",
+        "time": "2017-02-09 21:12:34",
+        "reason": "破壞重生點建築、洗版"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9bc47c79-6148-45c2-85c7-347918c453d4",
+        "in_game_name": "Fuwa_Kitsune",
+        "time": "2017-02-09 20:26:50",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "56d1fd6c-8f4f-4ee7-b910-c6548895ee00",
+        "in_game_name": "Naiou0903",
+        "time": "2017-02-06 04:57:46",
+        "reason": "特別審議"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9c12f23a-e08d-40e1-8d45-e19733354790",
+        "in_game_name": "heluonale",
+        "time": "2017-02-06 01:23:01",
+        "reason": "特別審議"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b2e68956-44fb-4059-92ad-b2af81016274",
+        "in_game_name": "john7912",
+        "time": "2017-02-06 01:20:01",
+        "reason": "特別審議"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "74ee27ac-eb3f-4828-9e76-f94b8f8a8210",
+        "in_game_name": "BRAVEMAN007",
+        "time": "2017-02-02 21:08:45",
+        "reason": "主世界開礦、未能解釋原因"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2c95f7fc-7279-4eaa-991f-c185bf0a95da",
+        "in_game_name": "EMCIVAN",
+        "time": "2017-01-28 01:10:13",
+        "reason": "無故殺人"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b5773cfe-dc3b-4f48-ae21-2754c4d115f1",
+        "in_game_name": "sean126342083",
+        "time": "2017-01-21 17:09:33",
+        "reason": "破壞他人建築地基"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "464e18a9-0c59-412d-98c0-f4018a2d795b",
+        "in_game_name": "Cu_ai_Moje",
+        "time": "2017-01-14 19:25:19",
+        "reason": "主世界開礦、明知故犯"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ee41b00e-89ff-46d9-9e52-aacdab7d52b6",
+        "in_game_name": "Nick_XD",
+        "time": "2017-01-11 18:11:03",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "17550e02-927e-4588-be58-74d8cc150515",
+        "in_game_name": "james234",
+        "time": "2017-01-05 01:39:26",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d8a2f647-4fad-4c58-bb9b-1d6127ba922c",
+        "in_game_name": "maple465037",
+        "time": "2017-01-05 01:39:08",
+        "reason": "偷竊、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "cc3d0f1b-ed5e-4dcb-b04e-a4cbbfc51657",
+        "in_game_name": "ling911112",
+        "time": "2016-12-23 16:56:06",
+        "reason": "使用飛行外掛"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "2c74466f-f5cf-4109-b32d-4a18174087a5",
+        "in_game_name": "Molu_Forest",
+        "time": "2016-12-21 15:23:59",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "cc667716-2ad6-46c6-91c3-bcc7d5154b87",
+        "in_game_name": "zombeecat1",
+        "time": "2016-12-13 23:28:05",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e09ebf89-22a6-4117-9c03-318f6bb36bf2",
+        "in_game_name": "The_BankRobber",
+        "time": "2016-12-13 23:25:50",
+        "reason": "殺害他人生物、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "29ecd6fd-14d2-4aff-9b6f-00458dcb6037",
+        "in_game_name": "an_idiot",
+        "time": "2016-12-05 21:57:39",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a2df7889-3dcc-4a29-b924-817568ddad69",
+        "in_game_name": "gungnirs",
+        "time": "2016-11-20 22:27:54",
+        "reason": "惡意殺人"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ac422add-3957-4d31-a5cd-c3177788d64a",
+        "in_game_name": "xHatefulHD",
+        "time": "2016-10-17 17:19:08",
+        "reason": "偷竊、破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "19104190-0cad-4ce6-bf74-81d10d9a4549",
+        "in_game_name": "FelixTang",
+        "time": "2016-10-11 13:37:29",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "acf35bf5-9bc3-4ca7-9b94-ecb588f0d672",
+        "in_game_name": "The_fire6",
+        "time": "2016-09-12 20:35:13",
+        "reason": "事發一星期後未有再上線，按故意殺人處理"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "299cee78-a14c-4897-b2c7-9706b6f59e8f",
+        "in_game_name": "Gene_gene0123",
+        "time": "2016-08-30 14:05:52",
+        "reason": "破壞、逾時未解釋"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "eaa96057-e43b-4793-addc-0ce15d890403",
+        "in_game_name": "HYrriestbba",
+        "time": "2016-08-22 12:58:02",
+        "reason": "侵犯玩家財產、人性車"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b03cc383-0b49-4fbf-a049-aaef0082fc58",
+        "in_game_name": "HitDoomed",
+        "time": "2016-08-21 15:03:48",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "dfb311c0-56e2-4103-9199-4d151ca7d188",
+        "in_game_name": "Godwalkan0513",
+        "time": "2016-08-17 20:56:29",
+        "reason": "殺人、侵犯玩家財產、騷擾玩家"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "44a2eac4-dd92-4f3f-96d5-a108221abaa1",
+        "in_game_name": "YuWayne",
+        "time": "2016-08-15 00:08:55",
+        "reason": "主世界開礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "bf7cedde-7617-4d87-ab79-223e9463f926",
+        "in_game_name": "hipaa",
+        "time": "2016-08-06 19:16:21",
+        "reason": "主世界開礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "29c2da35-2a9a-4179-a589-272ff895f968",
+        "in_game_name": "NO1Billy",
+        "time": "2016-07-30 21:26:50",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e29cb9f4-8af7-4fbe-a479-cdae9e5d09c1",
+        "in_game_name": "Turn_an_idea",
+        "time": "2016-07-27 19:40:14",
+        "reason": "主世界開礦"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "720c4956-1359-479a-8ae9-12cee6a5522d",
+        "in_game_name": "GreenItac",
+        "time": "2016-07-20 20:55:41",
+        "reason": "破壞"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "75d2fe14-6d2d-40c1-8a5b-9459215fb941",
+        "in_game_name": "c30025519",
+        "time": "2016-07-16 13:36:55",
+        "reason": "偷竊"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "4dd25a57-5a98-49b1-9185-6420f45b0245",
+        "in_game_name": "PITSENG2014101",
+        "time": "2016-07-13 23:15:48",
+        "reason": "累犯、攻擊、謊報"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0a2664e1-aa3e-41a9-be84-b09e14b79a59",
+        "in_game_name": "audyaudy",
+        "time": "2016-07-07 00:03:26",
+        "reason": "建造生怪塔"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a22ee26c-139b-41ad-b0ed-7244a3594f0c",
+        "in_game_name": "ChauYo",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ac8e64eb-f6cc-4f92-9856-a8d901a1af39",
+        "in_game_name": "Kittxn",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "822e42d3-ac95-4fbc-8d31-1cfba3b64755",
+        "in_game_name": "locus__",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a65a87e7-ab88-4347-9ceb-c1745f3b694b",
+        "in_game_name": "timovsove",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "00bc167d-81ee-44cb-b541-99730ea4c5e2",
+        "in_game_name": "HawkerIeong",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3869aa32-a232-40e3-9890-83512f2f2d75",
+        "in_game_name": "Ultimate_Ivan",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "46cc688c-f718-4799-a760-8a5045eb3812",
+        "in_game_name": "Axa",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "4d3092a0-6277-4dad-b291-7342150d8fee",
+        "in_game_name": "boyo1018",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0e379fc8-9352-490c-9fd5-6bf71135f9ea",
+        "in_game_name": "Enderplayer_boy",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "04a5af61-0b3a-4e66-a46e-cca5d8cdc5f2",
+        "in_game_name": "ewq987456321",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "becb1f18-7368-4752-a710-d3cd4972488f",
+        "in_game_name": "tntcarrot003",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "1e2f15f4-a9d2-4ff2-b103-d10543cd4f3d",
+        "in_game_name": "Shiyi123",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e297360a-c985-4640-a8e9-1d0cc52da33c",
+        "in_game_name": "XxGhost_Kitten",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "63ff5486-9594-480d-b964-4262395b3893",
+        "in_game_name": "n227068037",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e1a09be5-7796-4190-9db9-a2ae1af6aa60",
+        "in_game_name": "Akimoto_Akira_S",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b79c45fc-bfa5-4e5f-ad99-a0844cf20e00",
+        "in_game_name": "FeatherGrace",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "27c0c6af-5c1c-4988-9ea7-e84ee6865925",
+        "in_game_name": "Xanxusgodz",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "d8d0234c-b5b8-44d6-8728-f8e816faeb81",
+        "in_game_name": "oOwatermelonOo",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "a04901b4-e113-4341-88b9-482948b37eff",
+        "in_game_name": "Dead_Kirito",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "75bea146-1b49-4222-a71c-0e536a9c515b",
+        "in_game_name": "Max911221",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "7d84f8f4-9347-4807-ab0c-d237bb43a875",
+        "in_game_name": "Swallow",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "3434080a-fb2f-45aa-b764-5984928acc36",
+        "in_game_name": "PandoraDC",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "5fdc8b62-ce26-49c0-ad64-14e5525d98d3",
+        "in_game_name": "coffee0525_tw",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "8899cf5f-a40a-4294-9bb5-208b36faa847",
+        "in_game_name": "KKKK",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "e97ba0cb-5522-48a1-b62c-954c826f0cce",
+        "in_game_name": "TNTcarrot004",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f3db7320-f9e9-4cf3-9dec-85a7a29f4796",
+        "in_game_name": "devil_hin",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "ede0c4f1-061f-45a4-aa6d-67d9e5b01607",
+        "in_game_name": "yishiu",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "f83c57ba-b776-4da6-b991-f35f3b567c7c",
+        "in_game_name": "0mattehw1208",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "0c48fd3b-eaa3-475c-99f3-5b1f40656473",
+        "in_game_name": "zBoringDrop",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "32c2479a-397b-4b71-b505-b9d60c011b95",
+        "in_game_name": "TOM_Harrison",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "1e69e49b-97cd-46a3-b3fa-8d7bc9bb341b",
+        "in_game_name": "XYZGary",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "c29c0316-db1a-4e29-b513-6a0c9f2452e2",
+        "in_game_name": "QunetSyrK",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "9ee8844e-70bf-4a44-acf3-920a5077cdc0",
+        "in_game_name": "fung123456",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "b500237d-20c6-4918-8689-8c939491a351",
+        "in_game_name": "pari_paritte",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "486a3fe5-66a7-4401-a570-56300c9f7746",
+        "in_game_name": "fenghua",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "257372fb-2a7a-4159-9209-563c3bef8f3d",
+        "in_game_name": "tom01235",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "1a3695a9-cc0c-48fe-b331-07afc0beff78",
+        "in_game_name": "N9E",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "34a6c19f-4dca-4570-8391-5d6c0c37e8cc",
+        "in_game_name": "UGPUGP",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "057abe00-922d-4b52-8d14-c4477327a12f",
+        "in_game_name": "lchung_s",
+        "time": "0000-00-00 00:00:00"
+      },
+      {
+        "stage": "0x000032",
+        "uuid": "bcd4bd62-1e76-45a7-856a-9c7ebac28e6b",
+        "in_game_name": "chariot_cacc",
+        "time": "0000-00-00 00:00:00"
+      }
+    ]
+  }
+}
