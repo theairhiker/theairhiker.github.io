@@ -451,7 +451,35 @@ iframe {
   =====================================*/
 
 .bg-home {
-    background: url("../images/bg/bg_top_compressed.png");
+    background: url("../images/bg/title_bg_day.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-home-day {
+    background: url("../images/bg/title_bg_day.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-home-night {
+    background: url("../images/bg/title_bg_night.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-home-dusk {
+    background: url("../images/bg/title_bg_dusk.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-home-dawn {
+    background: url("../images/bg/title_bg_dawn.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
