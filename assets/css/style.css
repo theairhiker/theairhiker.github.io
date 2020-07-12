@@ -961,6 +961,16 @@ iframe {
     transition: all .3s ease-in-out;
     box-shadow: 0 0 1.25rem rgba(108,118,134,.1)!important;
 }
+
+.testimonial-decs-wbg {
+    background-color: #ffffff0a;
+    position: relative;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    transition: all .3s ease-in-out;
+    box-shadow: 0 0 1.25rem rgba(108,118,134,.1)!important;
+}
+
 .testimonial-box img {
     height: 68px;
     width: 68px;
